@@ -61,10 +61,3 @@ The following improvements were implemented over the original project:
 This project was developed as part of a group case study and further enhanced individually.
 
 ---
-
-
-## 📌 Note
-
-This project was developed as part of a group case study and further enhanced individually.
-
----
